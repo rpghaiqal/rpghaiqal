@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>Welcome to my sanctuary in the digital world.</h1> 
-[![Linkedin Badge](https://img.shields.io/badge/-rpghaiqal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haiqalnajmi/)](https://www.linkedin.com/in/haiqalnajmi) 
+[![Linkedin Badge](https://img.shields.io/badge/-haiqalnajmi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haiqalnajmi/)](https://www.linkedin.com/in/haiqalnajmi) 
 
 [![Gmail Badge](https://img.shields.io/badge/-haiqal@rpg.ventures-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haiqal@rpg.ventures)](mailto:haiqal@rpg.ventures)
 
