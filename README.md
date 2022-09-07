@@ -9,6 +9,29 @@
 **rpghaiqal/rpghaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haiqal Najmi'
+		current_work = 'Writing code'
+		hobbies = [
+				'Jogging',
+				'Playing Football',
+				'Reading Crime-fiction Novels'
+				'Being up all Night finishing a Netflix series...'
+			]
+	
+	def getCity():
+		return Setapak_KL()
+	
+	def Ambitions():
+		FindingTreasuresLikeIndianaJones()
+		CreateLightSaber()
+		TravelingAroundTheWorld()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shopify website!
