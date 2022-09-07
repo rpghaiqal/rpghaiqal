@@ -2,6 +2,7 @@
 
 <!--
 **rpghaiqal/rpghaiqal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -12,5 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything (as long as I know it ^.^)
 - 📫 How to reach me: haiqal@rpg.ventures
 - 😄 Pronouns: Hi-cal
-- ⚡ Fun fact: I'm dislike tofu 
--->
+- ⚡ Fun fact: I'm dislike tofu :(
