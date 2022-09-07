@@ -39,6 +39,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on frontend development!
 - 🤔 I’m looking for help with frontend web development!
 - 💬 Ask me about anything (as long as I know it ^.^)
-- 📫 How to reach me: haiqal@rpg.ventures
-- 😄 Pronouns: Hi-cal
 - ⚡ Fun fact: I'm dislike tofu :(
