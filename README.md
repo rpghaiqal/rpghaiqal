@@ -15,7 +15,7 @@
  	user = 'Haiqal Najmi'
 		current_work = 'Writing code'
 		hobbies = [
-				'Jogging',
+				'LearningPhotoEditing',
 				'Playing Football',
 				'Reading Crime-fiction Novels'
 				'Being up all Night finishing a Netflix series...'
@@ -26,7 +26,7 @@
 	
 	def Ambitions():
 		FindingTreasuresLikeIndianaJones()
-		CreateLightSaber()
+		CreatingLightSaber()
 		TravelingAroundTheWorld()
 		# Assume 10 more awesome ambitions here  ;)
 	
